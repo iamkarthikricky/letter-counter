@@ -1,7 +1,7 @@
-import DigitalTimer from './components/DigitalTimer'
+import LettersCalculator from './components/LettersCalculator'
 
 import './App.css'
 
-const App = () => <DigitalTimer />
+const App = () => <LettersCalculator />
 
 export default App
